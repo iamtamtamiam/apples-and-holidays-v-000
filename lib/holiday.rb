@@ -55,7 +55,7 @@ def all_winter_holiday_supplies(holiday_hash)
     #items
   #end.flatten 
   
-  holiday_supplies[:winter].vaules.flatten
+  holiday_supplies[:winter].values.flatten
 end
 
 def all_supplies_in_holidays(holiday_hash)
